@@ -4,9 +4,9 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:movies/presentation/widgets/language/language_contract.dart';
 import 'package:movies/presentation/widgets/language/language_vm.dart';
 import 'firebase_options.dart';
-import 'home_screen.dart';
+
 import 'l10n/generated/app_localizations.dart';
-import 'scond_screen.dart';
+
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
