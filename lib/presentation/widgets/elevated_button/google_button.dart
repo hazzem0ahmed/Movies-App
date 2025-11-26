@@ -53,5 +53,4 @@ class _GoogleButtonDesignState extends State<GoogleButtonDesign> {
       ),
     );
   }
-
 }
