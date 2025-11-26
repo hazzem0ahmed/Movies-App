@@ -9,8 +9,8 @@ class AppLocalizationsAr extends AppLocalizations {
   AppLocalizationsAr([String locale = 'ar']) : super(locale);
 
   @override
-  String get language => 'اللغة';
+  String get logInWithGoogle => 'تسجيل الدخول بجوجل';
 
   @override
-  String get hazzem => 'حازم';
+  String get somethingWentWrong => 'حدث خطأ';
 }

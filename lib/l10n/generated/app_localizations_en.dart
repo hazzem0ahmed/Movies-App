@@ -9,8 +9,8 @@ class AppLocalizationsEn extends AppLocalizations {
   AppLocalizationsEn([String locale = 'en']) : super(locale);
 
   @override
-  String get language => 'Language';
+  String get logInWithGoogle => 'LogIn With Google';
 
   @override
-  String get hazzem => 'Hazzem';
+  String get somethingWentWrong => 'SomeThing Went Wrong';
 }

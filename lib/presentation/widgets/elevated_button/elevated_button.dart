@@ -4,7 +4,7 @@ import '../../../core/app_colors.dart';
 
 class ElevatedButtonWidget extends StatelessWidget {
   final String text;
-  ElevatedButtonWidget({super.key,required this.text});
+  const ElevatedButtonWidget({super.key,required this.text});
 
   @override
   Widget build(BuildContext context) {

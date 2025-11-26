@@ -98,17 +98,17 @@ abstract class AppLocalizations {
     Locale('en'),
   ];
 
-  /// No description provided for @language.
+  /// No description provided for @logInWithGoogle.
   ///
   /// In en, this message translates to:
-  /// **'Language'**
-  String get language;
+  /// **'LogIn With Google'**
+  String get logInWithGoogle;
 
-  /// No description provided for @hazzem.
+  /// No description provided for @somethingWentWrong.
   ///
   /// In en, this message translates to:
-  /// **'Hazzem'**
-  String get hazzem;
+  /// **'SomeThing Went Wrong'**
+  String get somethingWentWrong;
 }
 
 class _AppLocalizationsDelegate
